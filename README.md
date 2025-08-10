@@ -2,7 +2,7 @@
 Write a bedtime story about a bat who is afraid of dark for children aged 5 to 7.
 
 ## AIM:
-The primary goal was to create a new variation of an existing story based on direct user feedback. The aim was to discard a previous creative direction (the glow-worm story) and generate a fresh narrative for the original bat character, incorporating new friends, a new resolution, and a specific author credit as requested by the user.
+The primary goal was to create aabout a bat who is afraid of dark for children aged 5 to 7, incorporating new friends, a new resolution, requested by the user.
 
 ## ALGORITHM:
 The process involved multiple clarification and re-scoping steps, demonstrating an iterative dialogue to arrive at the final version.
@@ -20,11 +20,6 @@ The process involved multiple clarification and re-scoping steps, demonstrating 
     *   **New Friends:** A chirpy cricket and a kind field mouse.
     *   **New Resolution:** Instead of learning echolocation, Barnaby would learn to appreciate the sounds of the night as music and find a magical, glowing "moon-petal" to serve as a comforting light.
 *   **User's Response:** The user approved this new direction.
-
-### Step 4: Final Generation with Author Credit
-*   **User's Prompt:** `"okayy done dont forget author name priyanka R"`
-*   **The AI's Action:** The AI generated the new story based on the approved variation, ensuring that "Priyanka R" was included as the author's name.
-*   **Tool Used:** It passed all these final parameters to its internal storybook creation tool (`@NewStorybook`) to generate the final version of the story.
 
 ---
 
@@ -55,4 +50,4 @@ Barnaby held the moon-petal carefully. It glowed with a warm, comforting light. 
 [A downloadable version of the storybook.](https://github.com/PriyankaRaghavan07/Prompt-Engineering/blob/main/parangika_compressed.pdf)
 
 ## RESULT:
-A completely new variation of the story about Barnaby the bat was successfully generated. This version features a different plot, new supporting characters (a cricket and a field mouse), and a new resolution (appreciating night's beauty and finding a moon-petal). The final story correctly includes "Priyanka R" as the author, fulfilling all of the user's final requests.
+A completely new variation of the story about Barnaby the bat was successfully generated. This version features a different plot, new supporting characters (a cricket and a field mouse), and a new resolution (appreciating night's beauty and finding a moon-petal). 
