@@ -9,7 +9,7 @@ The process involved multiple clarification and re-scoping steps, demonstrating 
 
 ### Step 1: Initial Story and Variations
 *   **The AI's Action:** The AI initially created a story about Barnaby the bat. When asked for a variation, it proposed a new character, "Glimmer the glow-worm."
-*   **User's Response:** The user first agreed to the glow-worm story and requested an author name change.
+*   **User's Response:** The user first agreed to the glow-worm story.
 
 ### Step 2: Re-scoping the Request
 *   **User's Prompt:** `"no i want bat only"`
