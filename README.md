@@ -52,7 +52,7 @@ Barnaby held the moon-petal carefully. It glowed with a warm, comforting light. 
 
 ## OUTPUT:
 
-[A downloadable version of the storybook can be generated upon request.]
+[A downloadable version of the storybook.](https://github.com/PriyankaRaghavan07/Prompt-Engineering/blob/main/parangika_compressed.pdf)
 
 ## RESULT:
 A completely new variation of the story about Barnaby the bat was successfully generated. This version features a different plot, new supporting characters (a cricket and a field mouse), and a new resolution (appreciating night's beauty and finding a moon-petal). The final story correctly includes "Priyanka R" as the author, fulfilling all of the user's final requests.
